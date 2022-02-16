@@ -1,11 +1,16 @@
 _repo: Researches-on-the-Visual-Organs-of-the-Trilobites-K-Svensk-Vetensk-Akad-Handlingar-Bd-34-No-8_67265
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67265-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Lindström, Gustaf
     gutenberg_agent_id: '54183'
     url: http://www.gutenberg.org/2009/agents/54183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67265#Researches-on-the-Visual-Organs-of-the-Trilobites-K-Svensk-Vetensk-Akad-Handlingar-Bd-34-No-8
 gutenberg_issued: '2022-01-28'
 identifiers:
   gutenberg: '67265'
